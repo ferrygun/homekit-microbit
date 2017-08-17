@@ -1,0 +1,15 @@
+{
+  "bridge":{
+    "name":"microbit",
+    "username":"CC:22:3D:E3:CE:33",
+    "port":51826,
+    "pin":"012-34-567"
+  },
+  "description":"microbit with Siri",
+  "accessories":[
+    {
+      "accessory":"microbit",
+      "name":"Light"
+    }
+  ]
+}
